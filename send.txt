@@ -1,0 +1,24 @@
+PRESENT SIMPLE:      PAST SIMPLE  PRESENT CONTINIOUS    PAST CONTINIOUS
+===============      ===========  ==================    ===============
+I send               I sent       I am sending          I was sending             
+You send             You sent      You are sending     you were sending            
+He sends              He sent      He is sending       he was sending
+She sends             She sent      She is sending     she was sending  
+It sends              It sent      It is sending       It was sending   
+we send              we sent      we are sending        We were sending
+you send             you sent      you are sending      You were sending 
+They send            They sent      They are sending    They were sending 
+
+NEGATIVE FORM
+======================================================================
+
+PRESENT SIMPLE:      PAST SIMPLE  PRESENT CONTINIOUS    PAST CONTINIOUS
+===============      ===========  ==================    ===============
+I  don't send         I didn't send       I am not sending          I was not sending             
+You don't send       You didn't send      You are not sending     you were not sending            
+He doesn't send     He didn't send      He is not sending       he was not sending
+She doesn't send    She didn't send      She is not sending     she was not sending  
+It doesn't send     It didn't send      It is not sending       It was not sending   
+we don't send        we didn't send      we are not sending        We were not sending
+you don't send       you didn't send      you are not sending      You were not sending 
+They don't send      They didn't send      They are not sending    They were not sending 
